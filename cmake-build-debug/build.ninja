@@ -55,6 +55,12 @@ build CMakeFiles/examentema1.dir/parte2examen.cpp.o: CXX_COMPILER__examentema1_u
   OBJECT_DIR = CMakeFiles/examentema1.dir
   OBJECT_FILE_DIR = CMakeFiles/examentema1.dir
 
+build CMakeFiles/examentema1.dir/gestiondememoria.cpp.o: CXX_COMPILER__examentema1_unscanned_Debug /Users/sofivazsanch/Documents/GitHub/examentema1/gestiondememoria.cpp || cmake_object_order_depends_target_examentema1
+  DEP_FILE = CMakeFiles/examentema1.dir/gestiondememoria.cpp.o.d
+  FLAGS = -g -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/examentema1.dir
+  OBJECT_FILE_DIR = CMakeFiles/examentema1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target examentema1
@@ -63,7 +69,7 @@ build CMakeFiles/examentema1.dir/parte2examen.cpp.o: CXX_COMPILER__examentema1_u
 #############################################
 # Link the executable examentema1
 
-build examentema1: CXX_EXECUTABLE_LINKER__examentema1_Debug CMakeFiles/examentema1.dir/parte2examen.cpp.o
+build examentema1: CXX_EXECUTABLE_LINKER__examentema1_Debug CMakeFiles/examentema1.dir/parte2examen.cpp.o CMakeFiles/examentema1.dir/gestiondememoria.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6
   OBJECT_DIR = CMakeFiles/examentema1.dir
   POST_BUILD = :
