@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(examentema1
         parte2examen.cpp
-        README.md
-        gestiondeestudiantes.cpp)
+        README.md)
+add_executable(gestiondeestudiantes gestiondeestudiantes.cpp)

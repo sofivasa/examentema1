@@ -1,6 +1,7 @@
 # ninja log v5
-0	1536	1699526937951580619	CMakeFiles/examentema1.dir/parte2examen.cpp.o	591551e756034ed6
-1541	1674	1699526938097641043	examentema1	1bc789e70d3aa9ec
-8	373	1699527851444460605	CMakeFiles/examentema1.dir/gestiondeestudiantes.cpp.o	a72609278e457c46
 6	1329	1699527852403940956	CMakeFiles/examentema1.dir/parte2examen.cpp.o	591551e756034ed6
-1330	1450	1699527852530058236	examentema1	b579b9cd779ff082
+1750	1881	1699530322468308991	examentema1	b579b9cd779ff082
+5	1750	1699530322331638261	CMakeFiles/examentema1.dir/gestiondeestudiantes.cpp.o	a72609278e457c46
+0	2415	1699530426597445658	CMakeFiles/gestiondeestudiantes.dir/gestiondeestudiantes.cpp.o	deea57a1baa72ece
+3	3996	1699530783183839290	CMakeFiles/gestiondeestudiantes.dir/gestiondeestudiantes.cpp.o	deea57a1baa72ece
+3996	4211	1699530783425671725	gestiondeestudiantes	25ab1a4bbd5918ef

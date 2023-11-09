@@ -1,3 +1,4 @@
 /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug/CMakeFiles/examentema1.dir
+/Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug/CMakeFiles/gestiondeestudiantes.dir
 /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

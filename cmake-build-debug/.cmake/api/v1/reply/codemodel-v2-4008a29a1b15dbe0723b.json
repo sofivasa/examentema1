@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "examentema1",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -39,8 +41,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "examentema1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examentema1-Debug-bd53fe73737260f64aa3.json",
+					"jsonFile" : "target-examentema1-Debug-f301b6caf0153b396eb7.json",
 					"name" : "examentema1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gestiondeestudiantes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestiondeestudiantes-Debug-528053c222a0d34e01d1.json",
+					"name" : "gestiondeestudiantes",
 					"projectIndex" : 0
 				}
 			]
