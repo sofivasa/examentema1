@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "examentema1"
+			"path" : "gestiondememoria"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 11,
 				"parent" : 0
 			}
 		]
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "examentema1::@6890427a1f51a3e7e1df",
+	"id" : "gestiondememoria::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "examentema1",
-	"nameOnDisk" : "examentema1",
+	"name" : "gestiondememoria",
+	"nameOnDisk" : "gestiondememoria",
 	"paths" : 
 	{
 		"build" : ".",
@@ -84,13 +84,6 @@
 			[
 				0
 			]
-		},
-		{
-			"name" : "",
-			"sourceIndexes" : 
-			[
-				1
-			]
 		}
 	],
 	"sources" : 
@@ -98,13 +91,8 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "parte2examen.cpp",
+			"path" : "gestiondememoria.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "README.md",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
