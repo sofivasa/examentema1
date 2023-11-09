@@ -15,6 +15,6 @@ int main (){
     cath (runtime_error &e){
         cout<<e.what()<<endl;
     }
-    
+
     return 0;
 }

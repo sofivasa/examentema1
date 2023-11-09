@@ -43,21 +43,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "examentema1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examentema1-Debug-26ae8a9afa79aa4671c0.json",
+					"jsonFile" : "target-examentema1-Debug-f4edfba3d8a3a0ec3a07.json",
 					"name" : "examentema1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "gestiondeestudiantes::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gestiondeestudiantes-Debug-c3f31fcfb2d42315aa5c.json",
+					"jsonFile" : "target-gestiondeestudiantes-Debug-4806fc7a07824621276d.json",
 					"name" : "gestiondeestudiantes",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "gestiondememoria::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gestiondememoria-Debug-01a3e6bfc334a23a59bc.json",
+					"jsonFile" : "target-gestiondememoria-Debug-298e2cedc91bf5015ce1.json",
 					"name" : "gestiondememoria",
 					"projectIndex" : 0
 				}
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug",
-		"source" : "/Users/sofivazsanch/Documents/GitHub/examentema1"
+		"build" : "/Users/sofivazsanch/Documents/GitHub/examentema1/ejercicios examen/cmake-build-debug",
+		"source" : "/Users/sofivazsanch/Documents/GitHub/examentema1/ejercicios examen"
 	},
 	"version" : 
 	{
