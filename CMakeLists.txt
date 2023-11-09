@@ -7,4 +7,4 @@ add_executable(examentema1
         parte2examen.cpp
         README.md)
 add_executable(gestiondeestudiantes gestiondeestudiantes.cpp)
-add_executable(gestiondememoria gestiondememoria.ccp)
+add_executable(gestiondememoria gestiondememoria.cpp)

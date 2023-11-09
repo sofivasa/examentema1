@@ -1,13 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/sofivazsanch/Documents/GitHub/examentema1 -B /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug
 -- Configuring done (0.1s)
-CMake Error at CMakeLists.txt:10 (add_executable):
-  Cannot find source file:
-
-    gestiondememoria.ccp
-
-
-CMake Error at CMakeLists.txt:10 (add_executable):
-  No SOURCES given to target: gestiondememoria
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug

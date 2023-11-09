@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -41,15 +43,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "examentema1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examentema1-Debug-da38462857d323a5b4f9.json",
+					"jsonFile" : "target-examentema1-Debug-f301b6caf0153b396eb7.json",
 					"name" : "examentema1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "gestiondeestudiantes::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gestiondeestudiantes-Debug-c3f31fcfb2d42315aa5c.json",
+					"jsonFile" : "target-gestiondeestudiantes-Debug-528053c222a0d34e01d1.json",
 					"name" : "gestiondeestudiantes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gestiondememoria::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestiondememoria-Debug-1922f822ee53e63fb198.json",
+					"name" : "gestiondememoria",
 					"projectIndex" : 0
 				}
 			]

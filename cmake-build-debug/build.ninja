@@ -55,12 +55,6 @@ build CMakeFiles/examentema1.dir/parte2examen.cpp.o: CXX_COMPILER__examentema1_u
   OBJECT_DIR = CMakeFiles/examentema1.dir
   OBJECT_FILE_DIR = CMakeFiles/examentema1.dir
 
-build CMakeFiles/examentema1.dir/gestiondememoria.cpp.o: CXX_COMPILER__examentema1_unscanned_Debug /Users/sofivazsanch/Documents/GitHub/examentema1/gestiondememoria.cpp || cmake_object_order_depends_target_examentema1
-  DEP_FILE = CMakeFiles/examentema1.dir/gestiondememoria.cpp.o.d
-  FLAGS = -g -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/examentema1.dir
-  OBJECT_FILE_DIR = CMakeFiles/examentema1.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target examentema1
@@ -69,7 +63,7 @@ build CMakeFiles/examentema1.dir/gestiondememoria.cpp.o: CXX_COMPILER__examentem
 #############################################
 # Link the executable examentema1
 
-build examentema1: CXX_EXECUTABLE_LINKER__examentema1_Debug CMakeFiles/examentema1.dir/parte2examen.cpp.o CMakeFiles/examentema1.dir/gestiondememoria.cpp.o
+build examentema1: CXX_EXECUTABLE_LINKER__examentema1_Debug CMakeFiles/examentema1.dir/parte2examen.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6
   OBJECT_DIR = CMakeFiles/examentema1.dir
   POST_BUILD = :
@@ -108,6 +102,37 @@ build gestiondeestudiantes: CXX_EXECUTABLE_LINKER__gestiondeestudiantes_Debug CM
   TARGET_FILE = gestiondeestudiantes
   TARGET_PDB = gestiondeestudiantes.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target gestiondememoria
+
+
+#############################################
+# Order-only phony target for gestiondememoria
+
+build cmake_object_order_depends_target_gestiondememoria: phony || CMakeFiles/gestiondememoria.dir
+
+build CMakeFiles/gestiondememoria.dir/gestiondememoria.cpp.o: CXX_COMPILER__gestiondememoria_unscanned_Debug /Users/sofivazsanch/Documents/GitHub/examentema1/gestiondememoria.cpp || cmake_object_order_depends_target_gestiondememoria
+  DEP_FILE = CMakeFiles/gestiondememoria.dir/gestiondememoria.cpp.o.d
+  FLAGS = -g -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/gestiondememoria.dir
+  OBJECT_FILE_DIR = CMakeFiles/gestiondememoria.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gestiondememoria
+
+
+#############################################
+# Link the executable gestiondememoria
+
+build gestiondememoria: CXX_EXECUTABLE_LINKER__gestiondememoria_Debug CMakeFiles/gestiondememoria.dir/gestiondememoria.cpp.o
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6
+  OBJECT_DIR = CMakeFiles/gestiondememoria.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = gestiondememoria
+  TARGET_PDB = gestiondememoria.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -142,7 +167,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/sofivazsanch/Documents/GitHub/examentema1/cmake-build-debug
 
-build all: phony examentema1 gestiondeestudiantes
+build all: phony examentema1 gestiondeestudiantes gestiondememoria
 
 # =============================================================================
 # Built-in targets
