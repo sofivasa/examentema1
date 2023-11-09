@@ -9,3 +9,7 @@ b. Un archivo que ayuda a gestionar y automatizar la compilación de proyectos d
 
 3.En C++, las variables pueden referirse a datos o direcciones de memoria. En relación a esto, ¿qué son los punteros en la programación C++?
 d. Ninguna de las anteriores
+
+Parte 2
+Operaciones basicas (archivo: parte2examencpp)
+Primero se incluyen las bibliotecas necesarias, despues de definen las varibles que vamos a utilizar, que en este caso son dos enteros (a,b). Se solicita al usario que introduza dos numeros (usando cout) y utlizamos cin para que extraiga la informacion que introduzca el usuario. Para finalizar escribimaos la operacion (suma) y con cout, se le imprime el resultado al usuario. 
